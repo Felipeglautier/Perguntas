@@ -1,5 +1,7 @@
 # Perguntas
 Perguntas em Python
+
+
 print()
 print('QUESTÃO 11')
 print(' Você tem algum        comigo?')
