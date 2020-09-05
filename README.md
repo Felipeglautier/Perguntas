@@ -1,5 +1,5 @@
 # Perguntas
-Perguntas em Python
+//Perguntas em Python
 
 
 print()
